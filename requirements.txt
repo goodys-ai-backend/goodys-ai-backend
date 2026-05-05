@@ -1,2 +1,6 @@
-flask
-openai
+fastapi
+uvicorn
+groq
+google-generativeai
+requests
+python-dotenv
